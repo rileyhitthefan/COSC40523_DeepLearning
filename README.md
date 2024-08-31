@@ -1,1 +1,3 @@
-# COSC40523_DeepLearning
+# COSC 40523 - Deep Learning
+
+repo for Deep Learning projects
